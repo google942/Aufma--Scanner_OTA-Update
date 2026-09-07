@@ -1,1 +1,1 @@
-1.6|https://githubusercontent.com/Aufma--Scanner_OTA-Update/blob/main/firmware_ESP32/Aufmass_Scanner.ino.bin
+1.6|https://githubusercontent.com/google942/Aufma--Scanner_OTA-Update/blob/main/firmware_ESP32/Aufmass_Scanner.ino.bin
